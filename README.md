@@ -1,4 +1,4 @@
-# Reactive Location API Library for Android nad support androidx
+# Reactive Location API Library for Android and support androidx
 
 Library origin https://github.com/patloew/RxLocation/
 
